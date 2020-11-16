@@ -10,6 +10,6 @@ public class MainContorl {
 	@RequestMapping("/say")
 	public String sayHello()
 	{
-		return "hello,Mr liutao!!";
+		return "hello, liutao!!";
 	}
 }
